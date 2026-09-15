@@ -1,1 +1,1 @@
-# V25-PG3401
+# Eksamen i Programmering i C for Linux - 2025
